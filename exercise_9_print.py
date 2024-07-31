@@ -2,3 +2,6 @@
 Add a simple function to the script (for example, a function that prints "hello")."""
 
 print("hello world")
+
+"""partner changes"""
+print("goodbye")
